@@ -1,0 +1,12 @@
+.fondo{
+    background-image: url(Fondo.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 1080px;
+    background-color: black;
+}
+.titulo{
+    color: #3fe643;
+    font-family: 'Nunito', sans-serif;
+    vertical-align: middle;
+}
